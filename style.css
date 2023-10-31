@@ -4,3 +4,26 @@
     background-size: cover;
     background-position: center;
 }
+
+.bg-primary,
+.btn-primary {
+    background: #fe6c47;
+    border: 0;
+}
+
+.bg-primary:hover,
+.btn-primary:hover {
+    background: #fe6c47;
+    border: 0;
+}
+
+h1 {
+    line-height: 1.3em !important;
+}
+
+/* mobile */
+@media (max-width: 768px){
+    .showcase a {
+        width: 50% !important;
+    }
+}
