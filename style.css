@@ -1,0 +1,6 @@
+.showcase {
+    background-image: url(showcase.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
